@@ -19,6 +19,6 @@ I am Ricky Fasha Setiawan, but you can address me as Ricky. Currently, I am a fi
 
 ## 🔗 Personal Info
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rickysetiawan651
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rickysetiawan651
 )
 
