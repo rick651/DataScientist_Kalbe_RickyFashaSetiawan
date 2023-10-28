@@ -13,6 +13,7 @@ I am Ricky Fasha Setiawan, but you can address me as Ricky. Currently, I am a fi
 
 - Dataset
 - SQL Code for Query Resolution (.sql)
+- Tableu Public link for Data Modeling
 - Customer Clustering Implementation in Python (.py) and Jupyter Notebook (.ipynb)
 - Inventory Forecasting Code in Python (.py) and Jupyter Notebook (.ipynb)
 
